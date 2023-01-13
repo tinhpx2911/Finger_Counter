@@ -1,4 +1,6 @@
-# fingercounter
+# Finger_Counter
+•	Use the OpenCV and MediaPipe library detect hand and count the number of raised fingers.
+
 ![0](https://user-images.githubusercontent.com/104357148/209916847-55b4d598-ced9-43da-bbb6-21def753d10b.JPEG)
 ![1](https://user-images.githubusercontent.com/104357148/209916852-1cbe053c-e880-4424-b907-d4e0f651f4d7.JPEG)
 ![2](https://user-images.githubusercontent.com/104357148/209916856-9cbec46c-fe3c-4722-a185-1c87e06017ef.JPEG)
